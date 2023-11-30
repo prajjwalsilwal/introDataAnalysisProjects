@@ -1,1 +1,1 @@
-#This project contains the datasets from Kaggle that uses the Electric Vehicle Sales data from 2010 - 2022. The data is arranged by region and powertype with the number of units sold. The files include dashboard images and the original dataset including my formating and sorting using excel. Python was also used to filter through the data sets. 
+#Intro Projcets
