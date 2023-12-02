@@ -1,1 +1,1 @@
-THIS PROJECT FILE CONTAINS THE ELECTRIC VEHICLE SALES ANALYSIS FOR 2010 - 2022. THE DATA VISUALIZATION IS DONE ENTIRELY THROUGH POWERBI.
+In this Project, I used PowerBI to visualize the Electric Vehicle Sales from 2010 to 2022. This project really taught me a lot to get even more familiarized with PowerBI and utilize my learnings. I used the PowerBI functions to build an interactive dashboard that would show the different visualization charts based on the year.
