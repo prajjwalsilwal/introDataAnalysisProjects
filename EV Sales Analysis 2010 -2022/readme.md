@@ -1,1 +1,1 @@
-THIS PROJECT FILE IS PREPARED ENTRIELY THROUGH EXCEL FUNCTIONS. ALSO MADE DASHBOARD IN EXCEL. 
+I attempted to visualize the Electrical Vehicle Sales from 2010 to 2022 in this project. I used Microsoft Excel to filter and format the dataset. I also created my dashboard using Excel. I learned a lot from this project, including using Pivot Tables and creating my own Dashboard. 
